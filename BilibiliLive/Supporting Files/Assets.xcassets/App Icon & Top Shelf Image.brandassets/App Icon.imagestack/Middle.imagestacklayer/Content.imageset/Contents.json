@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "icon-1x.jpg",
       "idiom" : "tv",
       "scale" : "1x"
     },
